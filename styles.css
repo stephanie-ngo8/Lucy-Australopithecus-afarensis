@@ -24,3 +24,20 @@
     color: white !important;
     background-color: white !important;
 }
+
+.nav-link {
+    color: white !important;
+}
+
+.active {
+    color: #a56b0c  !important;
+    background: white !important;
+}
+
+.page-size {
+    width: 100%;
+    height: calc(100vh - 130px);
+    overflow: auto;
+    display: block;
+    padding: 0 200px 0 200px;
+}
