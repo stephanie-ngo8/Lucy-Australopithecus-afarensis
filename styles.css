@@ -1,0 +1,26 @@
+.bg-dark {
+    background: #a56b0c !important;
+}
+
+.text-justify {
+    text-align: justify !important;
+}
+
+.line-space {
+    line-height: 2 !important;
+}
+
+.home-imgae-intro {
+    width: auto !important;
+    height: 450px !important;
+}
+
+.knee-joint-image {
+    width: auto !important;
+    height: 450px !important;
+}
+
+.bg-primary {
+    color: white !important;
+    background-color: white !important;
+}
