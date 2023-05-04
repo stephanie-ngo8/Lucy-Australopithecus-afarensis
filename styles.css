@@ -20,6 +20,12 @@
     height: 450px !important;
 }
 
+.anatomy-image {
+    width: auto !important;
+    height: calc(100vh - 190px) !important;
+}
+
+
 .bg-primary {
     color: white !important;
     background-color: white !important;
@@ -40,4 +46,10 @@
     overflow: auto;
     display: block;
     padding: 0 200px 0 200px;
+}
+
+.anatomy-page {
+    width: 100%;
+    display: flex;
+    justify-content: center;
 }
